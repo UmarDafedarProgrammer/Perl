@@ -4,7 +4,9 @@
 # String Literals
 # Single Quoted OR Double Quoted
 # Single quoted string literals are enclosed within single quotes, escape characters are not considered
+#     - No variable Interpolation
 # Double Quoted string literals are enclosed within double quotes and escape characters are considered
+#     - Variable Interpolation 
 # In Single quoted string literlas, only the \' is considered to print single quote as part of the string
 
 $String1 = 'Daenerys Targarean \n\'';
