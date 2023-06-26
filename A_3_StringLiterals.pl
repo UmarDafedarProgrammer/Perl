@@ -9,7 +9,7 @@
 
 $String1 = 'Daenerys Targarean \n\'';
 $String2 = "Drogon, Rhaegal, Viserion \n";
-$String3 = "Umar\t Dafedar\n Uzma \r Dafedar \f Anam D\b Dafedar\a Hurain \e";
+$String3 = "Delta\t Alpbha\n Beta \r Gama \f Reta D\b Milkyway\a Zeta \e";
 print($String1, $String2);
 print($String3);
 print("\a \a \a \a \a \a \a \a");
